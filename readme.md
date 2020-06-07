@@ -1,4 +1,4 @@
-![cover](./gh/cover.png)
+![cover](gh/homepage.png)
 
 # Homepage Maćka
 
